@@ -36,6 +36,8 @@ override.tf.json
 .terraformrc
 terraform.rc
 
+.terraform.lock.hcl
+
 **/keys/*
 
 /ny_taxi_postgres_data/*
